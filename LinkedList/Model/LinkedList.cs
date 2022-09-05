@@ -74,6 +74,11 @@ namespace LinkedList.Model
             Count++;
         }
 
+        /// <summary>
+        /// Вставить данные после искомого значения.
+        /// </summary>
+        /// <param name="target"></param>
+        /// <param name="data"></param>
         public void InsertAfter(T target, T data)
         {
             if (Head != null)
