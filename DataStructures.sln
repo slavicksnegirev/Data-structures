@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{ED1CCF54-9333-45A5-B8BA-AD50A3F58F1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueAndDeque", "QueueAndDeque\QueueAndDeque.csproj", "{47382BC8-87D7-49BD-B434-F32BCED479E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ED1CCF54-9333-45A5-B8BA-AD50A3F58F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED1CCF54-9333-45A5-B8BA-AD50A3F58F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED1CCF54-9333-45A5-B8BA-AD50A3F58F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47382BC8-87D7-49BD-B434-F32BCED479E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47382BC8-87D7-49BD-B434-F32BCED479E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47382BC8-87D7-49BD-B434-F32BCED479E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47382BC8-87D7-49BD-B434-F32BCED479E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
