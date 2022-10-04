@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set", "Set\Set.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{3899D3EC-1125-4CDD-81C6-FD58EC7385AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{50BADBCB-D726-42EB-A8DC-6DEC4314D578}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3899D3EC-1125-4CDD-81C6-FD58EC7385AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3899D3EC-1125-4CDD-81C6-FD58EC7385AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3899D3EC-1125-4CDD-81C6-FD58EC7385AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BADBCB-D726-42EB-A8DC-6DEC4314D578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BADBCB-D726-42EB-A8DC-6DEC4314D578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BADBCB-D726-42EB-A8DC-6DEC4314D578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BADBCB-D726-42EB-A8DC-6DEC4314D578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
